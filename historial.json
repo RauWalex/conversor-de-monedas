@@ -1,0 +1,26 @@
+[
+  {
+    "base_code": "USD",
+    "target_code": "COP",
+    "conversion_rate": 4248.1967,
+    "conversion_result": 106204.9175
+  },
+  {
+    "base_code": "EUR",
+    "target_code": "USD",
+    "conversion_rate": 1.0858,
+    "conversion_result": 271.45
+  },
+  {
+    "base_code": "EUR",
+    "target_code": "COP",
+    "conversion_rate": 4617.4908,
+    "conversion_result": 4617490.8
+  },
+  {
+    "base_code": "USD",
+    "target_code": "COP",
+    "conversion_rate": 4248.1967,
+    "conversion_result": 424819.67
+  }
+]
