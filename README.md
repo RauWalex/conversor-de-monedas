@@ -36,12 +36,3 @@ Se habra generado un archivo por cada conversion que relices y un archivo con to
 este desafio me enseño a comprender un poco mas la logica de programacion y la programacion orientada a objetos, fue un desafio muy estimulante  muy enrriquecedor donde alcance a dimensoniar un poco mas el dia a dia de un desarrollador, usando las APIS y transformando esos datos en elementos utiles dentro de Java.
 
 Espero seguir creciendo en este campo del desarrollo Back End Junto a AluraLatam
-
-
-![images](https://github.com/user-attachments/assets/4d47713e-8486-4d73-b89d-a8b863c54381)
-
-
-
-
-
-
