@@ -5,22 +5,19 @@ import Clases.GenArchivo;
 import Clases.Menu;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Principal {
 
 
     public static void main(String[] args) {
-        String moneda1; //moneda a la cual va a ser convertida
-        String moneda2; //moneda destino
         ArrayList<ConsultaMoneda> historial = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
         Menu menu1 = new Menu();
         GenArchivo archivo = new GenArchivo();
         ConvierteMoneda conversion = new ConvierteMoneda();
         int consecutivo = 0;
-        boolean salir = true;
+        boolean salir;
         do {
             menu1.mostrarMenuUsuario();
             try {
